@@ -1,8 +1,3 @@
-# X_train.txt: measurement data
-# y_train.txt: activity descriptor for the measurement data
-# subject_train.txt: 
-# features.txt: list of variable names
-
 library(plyr)
 library(reshape2)
 
