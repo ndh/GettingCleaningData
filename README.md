@@ -48,5 +48,9 @@ To complete this project, the following steps were coded:
 1. Combine the subject and activity data frames into the final tidy data frame. 
 1. Write that data frame to a text file.
 
+## Executing the script
 
+From RStudio, make sure your working directory is set to wherever the run_analysis.R file is located. In that same location, the UCI HAR Dataset directory, from the extracted Samsung data files, should also be located.
+
+Source run_analysis.R. All data management operations will run, and a new file, tidy.txt, will be written to the working directory.
 
